@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ft-package
+Version: 0.0.1
+Summary: A small example package
+Author-email: Yim Jiun Jye <jyim@student.42kl.edu.my>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# For 42KL python piscince
+
+This package is created for 42KL student to excercise using python for the first time.
